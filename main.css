@@ -1,10 +1,12 @@
 h1 {
-    align-content: center;
-    
+    color:aliceblue;
+}
+
+h2 {
+    color:aliceblue;
 }
 
 p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:aliceblue;
 }
 
