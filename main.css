@@ -6,3 +6,22 @@ h1 {
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+img {
+    height: auto;
+    border-color: rgb(0, 225, 255);
+    border-radius: 50%;
+    max-width: 20%;
+    border-style:double;
+}
+
+body {
+    background-image: none;
+    background-color:rgb(12, 1, 36);
+    background-position: center;
+    background-size: 100%;
+}
+
+
+
+
