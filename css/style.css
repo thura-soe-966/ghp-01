@@ -23,11 +23,7 @@ header a {
 
 }
 
-img {
-    height: 300px;
-    border-radius: 50%;
-    border: 2px groove rgb(221, 255, 3);
-}
+
 
 section {
     height: 100vh;
@@ -62,14 +58,25 @@ footer {
 }
 
 #intro {
-    background-image: url(images/background.jpg);
+    background-image: url("images/background.jpg");
     background-repeat: round;
 }
 
 #about {
-    background-color: bisque;
+    background-image: url("images/background.jpg");
 }
 
 #contact {
-    background-color: blanchedalmond;
+    background-image: url("images/background.jpg");
 }
+
+ .profileImage {
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid rgb(221, 255, 3);
+}
+
+ .profileImage:hover{
+    border: 5px solid rgb(221, 255, 3);
+    }
+
